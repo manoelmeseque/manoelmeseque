@@ -1,4 +1,4 @@
-### Olá! eu sou Manoel Meseque 👋
+### Olá! me chamo Manoel Meseque 👋
 #### Seja Bem vindo(a) ao meu Repositório do GitHub.
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack
