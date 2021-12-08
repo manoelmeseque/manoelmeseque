@@ -2,9 +2,7 @@
 #### Seja Bem vindo(a) ao meu Repositório do GitHub.
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack
-- 🌱 No momento estou aprendendo TypeScript
-  
-  
+ 
 
 <div> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
